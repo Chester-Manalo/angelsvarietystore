@@ -438,17 +438,6 @@
     color: white;
   }
 
-  .form textarea{
-    width: 400px;
-    background-color: transparent;
-    border-color: white;
-    border-width: 4px;
-    border-radius: 10px;
-    color: white;
-    padding: 10px;
-    height: 100px;
-  }
-
   /* promotion */
   .promotion {
     display: flex;
