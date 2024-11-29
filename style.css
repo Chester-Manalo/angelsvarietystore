@@ -639,7 +639,7 @@
 
 
   /* MOBILE MODE */
-  @media (max-width: 854px) {
+  @media (max-width: 913px) {
     /*header*/
       .nav-links {
           display: none; /* Hidden by default */
